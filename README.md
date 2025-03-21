@@ -1,5 +1,3 @@
-
-
 # Ethical AI Job Description Generator
 
 ## Overview
