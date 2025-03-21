@@ -45,13 +45,6 @@ pip install -r requirements.txt
 ## Usage
 To run the project, use the Python scripts provided in the `src/` directory or open and explore the Jupyter notebooks in the `notebooks/` directory.
 
-## Dependencies
-```
-numpy
-pandas
-scikit-learn
-shap
-matplotlib
 ```
 ## Installation
 1. Clone the repository:
