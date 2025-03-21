@@ -122,9 +122,4 @@ if __name__ == "__main__":
 ```
 
 ### notebooks/Exploratory_Analysis.ipynb
-<<<<<<< HEAD
 A Jupyter Notebook for exploring and visualizing the dataset before training.
-=======
-A Jupyter Notebook for exploring and visualizing the dataset before training.
-
->>>>>>> 44a98a5f5853b8da32fd8d52f1a06b7fee11c6ec
