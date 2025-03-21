@@ -1,9 +1,20 @@
+# Ethical AI Job Description Generator
+
 ### README.md
 
 # Ethical AI Job Description Generator
 
 ## Overview
 This project aims to build an AI tool that generates job descriptions while ensuring ethical deployment by mitigating bias using techniques like SHAP and fairness metrics. The goal is to reduce discrimination and promote inclusivity in automated job description generation.
+
+## Table of Contents
+- [Overview](#overview)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dependencies](#dependencies)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Project Structure
 ```
@@ -13,7 +24,7 @@ Ethical-AI-Job-Description-Generator/
 ├── notebooks/           # Jupyter notebooks for experimentation
 ├── src/                 # Source code for model development
 ├── README.md            # Project description and setup instructions
-├── requirements.txt      # Dependencies for the project
+├── requirements.txt     # Dependencies for the project
 ├── .gitignore           # Files/folders to ignore in version control
 ```
 
@@ -42,12 +53,31 @@ scikit-learn
 shap
 matplotlib
 ```
+## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/Dawoodsdatalife/Ethical-AI-Job-Description-Generator.git
+```
+2. Navigate to the project directory:
+```bash
+cd Ethical-AI-Job-Description-Generator
+```
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Usage
+To run the project, use the Python scripts provided in the `src/` directory or open and explore the Jupyter notebooks in the `notebooks/` directory.
 
-## Acknowledgments
-Special thanks to the developers of SHAP and the broader open-source community for their tools and resources.
+## Dependencies
+```
+numpy
+pandas
+scikit-learn
+shap
+matplotlib
+```
 
 ### requirements.txt
 ```
@@ -120,6 +150,12 @@ if __name__ == "__main__":
     model = train_model(X_train, y_train)
     evaluate_model(model, X_test, y_test)
 ```
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+Special thanks to the developers of SHAP and the broader open-source community for their tools and resources.
 
 ### notebooks/Exploratory_Analysis.ipynb
 A Jupyter Notebook for exploring and visualizing the dataset before training.
