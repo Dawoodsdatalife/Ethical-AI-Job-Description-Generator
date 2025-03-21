@@ -47,12 +47,8 @@ matplotlib
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-<<<<<<< HEAD
 Special thanks to the developers of SHAP and the broader open-source community for their tools and resources.
 
-=======
-Special thanks to the developers of SHA
->>>>>>> 44a98a5f5853b8da32fd8d52f1a06b7fee11c6ec
 ### requirements.txt
 ```
 numpy
