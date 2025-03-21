@@ -1,6 +1,4 @@
-# Ethical AI Job Description Generator
 
-### README.md
 
 # Ethical AI Job Description Generator
 
@@ -26,20 +24,6 @@ Ethical-AI-Job-Description-Generator/
 ├── README.md            # Project description and setup instructions
 ├── requirements.txt     # Dependencies for the project
 ├── .gitignore           # Files/folders to ignore in version control
-```
-
-## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/Dawoodsdatalife/Ethical-AI-Job-Description-Generator.git
-```
-2. Navigate to the project directory:
-```bash
-cd Ethical-AI-Job-Description-Generator
-```
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
 ```
 
 ## Usage
