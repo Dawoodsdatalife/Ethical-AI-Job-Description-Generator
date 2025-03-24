@@ -136,4 +136,9 @@ SOFTWARE.
 - [SHAP Documentation](https://shap.readthedocs.io/en/latest/)
 
 ## Acknowledgments
+<<<<<<< HEAD
 Special thanks to the developers of SHAP and the broader open-source community for their tools and resources.
+=======
+Special thanks to the developers of SHAP and the broader open-source community for their tools and resources.
+
+>>>>>>> 2d64c8455d397e5f8a4c3439e033382aeeb3ced8
