@@ -1,6 +1,11 @@
-numpy
-pandas
-scikit-learn
-shap
-matplotlib
-joblib
+pandas==1.4.4
+nltk==3.6.7
+scikit-learn==1.0.2
+aif360==0.5.0
+torch==1.13.1
+matplotlib==3.5.2
+joblib==1.1.0
+alibi==0.7.0
+streamlit==1.10.0
+scipy==1.8.1
+seaborn==0.11.2
